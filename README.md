@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/psrganesh1998/DevOpsTest/_apis/build/status/peketisivaramganesh.Java-pipeline?branchName=main)](https://dev.azure.com/psrganesh1998/DevOpsTest/_build/latest?definitionId=8&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
